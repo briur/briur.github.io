@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://briur.github.io/YyC/sitemap.YyC.gz
